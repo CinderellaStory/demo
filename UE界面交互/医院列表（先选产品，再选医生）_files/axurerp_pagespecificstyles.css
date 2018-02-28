@@ -1,0 +1,510 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:380px;
+    height:800px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:380px;
+    height:800px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:376px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:232px;
+    top:116px;
+    width:320px;
+    height:36px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:42px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:243px;
+    top:123px;
+    width:22px;
+    height:22px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:22px;
+    height:22px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:232px;
+    top:155px;
+    width:320px;
+    height:94px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:100px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:237px;
+    top:162px;
+    width:122px;
+    height:79px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:128px;
+    height:85px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:118px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:379px;
+    top:170px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:379px;
+    top:196px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u6_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:232px;
+    top:256px;
+    width:320px;
+    height:94px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:100px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u8_normal.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:237px;
+    top:263px;
+    width:122px;
+    height:79px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:128px;
+    height:85px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:118px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:379px;
+    top:271px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:379px;
+    top:297px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u6_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:232px;
+    top:357px;
+    width:320px;
+    height:94px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:100px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u8_normal.png');
+}
+
+.u20_container {
+    position:absolute;
+    left:237px;
+    top:364px;
+    width:122px;
+    height:79px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:128px;
+    height:85px;
+}
+
+.u21 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:118px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:379px;
+    top:372px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:379px;
+    top:398px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u6_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:232px;
+    top:457px;
+    width:320px;
+    height:94px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:100px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../医院列表（先选产品，再选医生）_files/u8_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:237px;
+    top:464px;
+    width:122px;
+    height:79px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:128px;
+    height:85px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:118px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:379px;
+    top:472px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:379px;
+    top:498px;
+    width:150px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

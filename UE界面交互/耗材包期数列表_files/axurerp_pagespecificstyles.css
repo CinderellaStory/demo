@@ -1,0 +1,366 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../耗材包期数列表_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:380px;
+    height:800px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:380px;
+    height:800px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:376px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../耗材包期数列表_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:232px;
+    top:116px;
+    width:319px;
+    height:36px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:42px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../耗材包期数列表_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:238px;
+    top:159px;
+    width:307px;
+    height:48px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:313px;
+    height:54px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:303px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../耗材包期数列表_files/u4_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:238px;
+    top:213px;
+    width:307px;
+    height:48px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:313px;
+    height:54px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:303px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../耗材包期数列表_files/u4_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:238px;
+    top:268px;
+    width:307px;
+    height:48px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:313px;
+    height:54px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:303px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../耗材包期数列表_files/u4_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:238px;
+    top:324px;
+    width:307px;
+    height:48px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:313px;
+    height:54px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:303px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../耗材包期数列表_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:520px;
+    top:122px;
+    width:25px;
+    height:25px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:25px;
+    height:25px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:21px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14_line {
+    background-image: url('../耗材包期数列表_files/u14_line.png');
+}
+
+.u14_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:200px;
+    height:3px;
+}
+
+.u14 {
+    position:absolute;
+    left:535px;
+    top:137px;
+    width:200px;
+    height:10px;
+    
+}
+
+.u15 {
+    position:absolute;
+    left:612px;
+    top:121px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16_line {
+    background-image: url('../耗材包期数列表_files/u16_line.png');
+}
+
+.u16_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:200px;
+    height:3px;
+}
+
+.u16 {
+    position:absolute;
+    left:535px;
+    top:186px;
+    width:200px;
+    height:10px;
+    
+}
+
+.u17 {
+    position:absolute;
+    left:612px;
+    top:170px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_normal {
+    background-image: url('../耗材包期数列表_files/u18_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:246px;
+    top:123px;
+    width:22px;
+    height:22px;
+}
+
+#u18_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:22px;
+    height:22px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

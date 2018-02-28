@@ -1,0 +1,503 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:200px;
+    top:0px;
+    width:380px;
+    height:800px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:380px;
+    height:800px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:392px;
+    width:376px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:231px;
+    top:116px;
+    width:321px;
+    height:36px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:327px;
+    height:42px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:317px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:245px;
+    top:123px;
+    width:22px;
+    height:22px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:22px;
+    height:22px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u6_normal.png');
+}
+
+.u6_container {
+    position:absolute;
+    left:235px;
+    top:160px;
+    width:84px;
+    height:94px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:100px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:335px;
+    top:160px;
+    width:211px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:476px;
+    top:233px;
+    width:70px;
+    height:21px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:27px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_line {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u11_line.png');
+}
+
+.u11_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:311px;
+    height:3px;
+}
+
+.u11 {
+    position:absolute;
+    left:235px;
+    top:259px;
+    width:311px;
+    height:10px;
+    
+}
+
+.u12_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u6_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:235px;
+    top:272px;
+    width:84px;
+    height:94px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:100px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:335px;
+    top:272px;
+    width:211px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u9_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:476px;
+    top:345px;
+    width:70px;
+    height:21px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:27px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_line {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u17_line.png');
+}
+
+.u17_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:311px;
+    height:3px;
+}
+
+.u17 {
+    position:absolute;
+    left:235px;
+    top:371px;
+    width:311px;
+    height:10px;
+    
+}
+
+.u18_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u6_normal.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:235px;
+    top:386px;
+    width:84px;
+    height:94px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:90px;
+    height:100px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:335px;
+    top:386px;
+    width:211px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u9_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:476px;
+    top:459px;
+    width:70px;
+    height:21px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:27px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_line {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u23_line.png');
+}
+
+.u23_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:311px;
+    height:3px;
+}
+
+.u23 {
+    position:absolute;
+    left:235px;
+    top:485px;
+    width:311px;
+    height:10px;
+    
+}
+
+.u24_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:231px;
+    top:654px;
+    width:161px;
+    height:30px;
+}
+
+#u24_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:167px;
+    height:36px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:157px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../医生列表（先选产品，再选医生）_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:392px;
+    top:654px;
+    width:159px;
+    height:30px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:165px;
+    height:36px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:155px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
